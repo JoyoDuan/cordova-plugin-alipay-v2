@@ -1,7 +1,31 @@
 {
-  "name": "cordova-plugin-alipay-v2",
-  "version": "2.0.0",
-  "description": "a cordova plugin, a JS version of Alipay SDK(20190718211148)",
+  "_from": "git+https://github.com/JoyoDuan/cordova-plugin-alipay-v2.git",
+  "_id": "cordova-plugin-alipay-v2@2.0.0",
+  "_inBundle": false,
+  "_location": "/cordova-plugin-alipay-v2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/JoyoDuan/cordova-plugin-alipay-v2",
+    "rawSpec": "https://github.com/JoyoDuan/cordova-plugin-alipay-v2",
+    "saveSpec": "git+https://github.com/JoyoDuan/cordova-plugin-alipay-v2.git",
+    "fetchSpec": "https://github.com/JoyoDuan/cordova-plugin-alipay-v2.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/JoyoDuan/cordova-plugin-alipay-v2.git#18d23d7064325c882fabe4e7211a9daa98e73ad1",
+  "_spec": "https://github.com/JoyoDuan/cordova-plugin-alipay-v2",
+  "_where": "E:\\Driveprince\\Development\\hybrid-app\\drive-trainee",
+  "author": {
+    "name": "JoyoDuan"
+  },
+  "bugs": {
+    "url": "https://github.com/JoyoDuan/cordova-plugin-alipay-v2/issues"
+  },
+  "bundleDependencies": false,
   "cordova": {
     "id": "cordova-plugin-alipay-v2",
     "platforms": [
@@ -9,6 +33,9 @@
       "ios"
     ]
   },
+  "deprecated": false,
+  "description": "a cordova plugin, a JS version of Alipay SDK(20190718211148)",
+  "homepage": "https://github.com/JoyoDuan/cordova-plugin-alipay-v2#readme",
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
@@ -17,14 +44,11 @@
     "cordova-plugin-alipay",
     "cordova-plugin-alipay-v2"
   ],
+  "license": "ISC",
+  "name": "cordova-plugin-alipay-v2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hhjjj1010/cordova-plugin-alipay-v2.git"
+    "url": "git+https://github.com/JoyoDuan/cordova-plugin-alipay-v2.git"
   },
-  "bugs": {
-    "url": "https://github.com/hhjjj1010/cordova-plugin-alipay-v2/issues"
-  },
-  "homepage": "https://github.com/hhjjj1010/cordova-plugin-alipay-v2#readme",
-  "author": "hhjjj1010",
-  "license": "ISC"
+  "version": "2.0.0"
 }
